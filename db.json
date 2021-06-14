@@ -1,0 +1,32 @@
+{
+	"members": [
+		{
+			"id": 0,
+			"name": "Omi",
+			"username": "Omii",
+			"role": "Explosive Experts",
+			"email": "Omi@space.com"
+		},
+		{
+			"id": 1,
+			"name": "Steve Smith",
+			"username": "Wheels",
+			"role": "Detective",
+			"email": "wheels&legman@crime.com"
+		},
+		{
+			"id": 2,
+			"name": "Roger Smith",
+			"username": "The Legman",
+			"role": "Dectective",
+			"email": "TheLegman&wheels@crime.com"
+		},
+		{
+			"id": 3,
+			"name": "Stan Smith",
+			"username": "STAN_DA_MAN",
+			"role": "C.I.A",
+			"email": "stantheman@cia.com"
+		}
+	]
+}
